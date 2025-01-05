@@ -1,0 +1,9 @@
+2024-12:  Excited to announce <strong>p3D</strong>, a <a href="https://pypi.org/project/python3D/">PyPI package</a> developed for <strong>NEXT 3D</strong>.<br>
+2024-11:  <font color="#FF0000"><strong>NEXT 3D</strong> is accepted at NAAS/AJAS 2025. See you in Boston!</font><br>
+2024-11:  Start my position at the <a href="https://www.nmoe.org/student-board/">National Museum of Education</a> as a Student Board of Director.<br>
+2024-10:  Excited to announce <strong>Redove</strong>, a virtual reality application to prevent depression in vulnerable patient demographics.<br>
+2024-06:  Excited to announce <strong>NEXT 3D</strong>, a simulative tool to assist in nanoparticle design optimization.<br>
+2024-03:  <strong>Glioblasted</strong> is accepted by GSEF 2024.<br>
+2024-02:  Excited to announce <strong>Glioblasted</strong>, a histology image classification approach to glioblastoma multiforme detection.<br>
+2024-01:  <font color="#FF0000"><strong>ICUSpeak</strong> is accepted at HouseOfCode 2024. See you in Washington, DC!</font><br>
+2023-10:  Excited to announce <strong>ICUSpeak</strong>, an app to enable debilitated patients to communicate with hospital visitors and staff.

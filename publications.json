@@ -1,0 +1,26 @@
+[
+    {
+        "video": "images/next-3d.mp4",
+        "title": "NEXT 3D: A Simulation-Based Approach to Nanoparticle Design for Targeted Glioblastoma Multiforme Thermotherapy",
+        "authors": "Aarav Dave",
+        "published": "<em>(publication pending)</em>",
+        "links": {
+            "Project": "https://next-3d.com/",
+            "PDF": "#",
+            "BibTeX": "#"
+        },
+        "description": "We present NEXT 3D, a novel simulation assisting in the optimization of the nanoparticle design process for glioblastoma multiforme treatment via thermotherapy."
+    },
+
+    {
+        "video": "images/glioblasted.mp4",
+        "title": "Glioblasted: Histological Image Classification for Glioblastoma Multiforme Detection",
+        "authors": "Aarav Dave",
+        "published": "<em>(publication pending)</em>",
+        "links": {
+            "PDF": "#",
+            "BibTeX": "#"
+        },
+        "description": "Given a full image of a histopathological slide of glioblastoma multiforme at 20x zoom, image classification algorithms determine whether the cancer is benign or malignant."
+    }
+]
