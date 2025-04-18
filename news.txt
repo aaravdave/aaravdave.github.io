@@ -1,6 +1,11 @@
+2025-04:  <font color="#FF0000"><strong>Team Hydrogen</strong> has been given the Artemis Student Challenge Innovation Award for the NASA App Development Challenge!</font><br>
+2025-02:  <font color="#FF0000"><strong>Team Hydrogen</strong> has been named a Top Team of the NASA App Development Challenge and will be attending the Culminating Event. See you in Houston!</font><br>
+2025-02:  <strong>Team Hydrog</strong> is accepted at GSEF 2025.<br>
 2025-02:  <strong>NEXT 3D</strong> is accepted at GSEF 2025.<br>
-2025-01:  <font color="#FF0000"><strong>NEXT 3D</strong> is accepted at GJSHS 2025 for an oral presentation. See you in Athens!</font><br>
+2025-01:  <strong>NEXT 3D</strong> is accepted at GJSHS 2025 for an oral presentation.
+2025-01:  <strong>Team Hydrogen</strong> has made it to the interview stage of the NASA App Development Challenge.<br>
 2024-12:  Excited to announce <strong>p3D</strong>, a <a href="https://pypi.org/project/python3D/">PyPI package</a> developed for <strong>NEXT 3D</strong>.<br>
+2024-12:  <strong>Team Hydrogen</strong> is excited to announce our submission to the NASA App Development Challenge.<br>
 2024-11:  <font color="#FF0000"><strong>NEXT 3D</strong> is accepted at NAAS/AJAS 2025. See you in Boston!</font><br>
 2024-11:  Start my position at the <a href="https://www.nmoe.org/student-board/">National Museum of Education</a> as a Student Board of Director.<br>
 2024-10:  Excited to announce <strong>Redove</strong>, a virtual reality application to prevent depression in vulnerable patient demographics.<br>
