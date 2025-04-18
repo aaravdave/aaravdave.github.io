@@ -1,7 +1,7 @@
 2025-04:  <strong>Team Hydrogen</strong> has been given the Artemis Student Challenge Innovation Award for the NASA App Development Challenge.<br>
 2025-02:  <font color="#FF0000"><strong>Team Hydrogen</strong> has been named a Top Team of the NASA App Development Challenge and will be attending the Culminating Event. See you in Houston!</font><br>
 2025-02:  <strong>NEXT 3D</strong> is accepted at GSEF 2025.<br>
-2025-01:  <strong>NEXT 3D</strong> is accepted at GJSHS 2025 for an oral presentation.
+2025-01:  <strong>NEXT 3D</strong> is accepted at GJSHS 2025 for an oral presentation.<br>
 2025-01:  <strong>Team Hydrogen</strong> has made it to the interview stage of the NASA App Development Challenge.<br>
 2024-12:  Excited to announce <strong>p3D</strong>, a <a href="https://pypi.org/project/python3D/">PyPI package</a> developed for <strong>NEXT 3D</strong>.<br>
 2024-12:  <strong>Team Hydrogen</strong> is excited to announce our submission to the NASA App Development Challenge.<br>
