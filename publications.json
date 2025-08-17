@@ -1,5 +1,18 @@
 [
     {
+        "video": "images/msaffect.mp4",
+        "title": "MSAffect: Adversarial Sequence Alignments for Protein Structure Prediction using AlphaFold",
+        "authors": "Aarav Dave",
+        "published": "<em>(publication pending)</em>",
+        "links": {
+            "Project": "#",
+            "PDF": "#",
+            "BibTeX": "#"
+        },
+        "description": "This project introduces MSAffect, an end-to-end computational framework for generating, perturbing, and evaluating MSAs to probe the influence of alignment changes on AlphaFold-style structure prediction."
+    },
+    
+    {
         "video": "images/next-3d.mp4",
         "title": "NEXT 3D: A Simulation-Based Approach to Nanoparticle Design for Targeted Glioblastoma Multiforme Thermotherapy",
         "authors": "Aarav Dave",
